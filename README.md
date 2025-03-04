@@ -27,14 +27,10 @@ Features
  Installation & Setup
  1. Clone the repository
 
-git clone https://github.com/yourusername/restaurant-rating-prediction.git
+git clone [https://github.com/VedantKasar369/Restaurant-Rating-Prediction-System-.git](https://github.com/VedantKasar369/Restaurant-Rating-Prediction-System-.git)
 cd restaurant-rating-prediction
- 2. Install dependencies
-Make sure you have Python installed, then install the required dependencies:
 
-pip install -r requirements.txt
-
- 3. Run the Streamlit Web App
+ 2. Run the Streamlit Web App
 
 streamlit run app.py
 
